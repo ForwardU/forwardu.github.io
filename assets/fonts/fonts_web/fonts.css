@@ -1,0 +1,155 @@
+@font-face {
+    font-family: 'BrandonTextWeb-LightItalic';
+    src: url('webfonts/BrandonTextWeb-LightItalic.eot');
+    src: url('webfonts/BrandonTextWeb-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('webfonts/BrandonTextWeb-LightItalic.woff2') format('woff2'),
+        url('webfonts/BrandonTextWeb-LightItalic.woff') format('woff'),
+        url('webfonts/BrandonTextWeb-LightItalic.ttf') format('truetype'),
+        url('webfonts/BrandonTextWeb-LightItalic.svg#BrandonTextWeb-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'FWU Blog Script';
+    src: url('webfonts/FWUBlogScript.eot');
+    src: url('webfonts/FWUBlogScript.eot?#iefix') format('embedded-opentype'),
+        url('webfonts/FWUBlogScript.woff2') format('woff2'),
+        url('webfonts/FWUBlogScript.woff') format('woff'),
+        url('webfonts/FWUBlogScript.ttf') format('truetype'),
+        url('webfonts/FWUBlogScript.svg#FWUBlogScript') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BrandonTextWeb';
+    src: url('webfonts/BrandonTextWeb-Medium.eot');
+    src: url('webfonts/BrandonTextWeb-Medium.eot?#iefix') format('embedded-opentype'),
+        url('webfonts/BrandonTextWeb-Medium.woff2') format('woff2'),
+        url('webfonts/BrandonTextWeb-Medium.woff') format('woff'),
+        url('webfonts/BrandonTextWeb-Medium.ttf') format('truetype'),
+        url('webfonts/BrandonTextWeb-Medium.svg#BrandonTextWeb-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BrandonTextWeb';
+    src: url('webfonts/BrandonTextWeb-Bold.eot');
+    src: url('webfonts/BrandonTextWeb-Bold.eot?#iefix') format('embedded-opentype'),
+        url('webfonts/BrandonTextWeb-Bold.woff2') format('woff2'),
+        url('webfonts/BrandonTextWeb-Bold.woff') format('woff'),
+        url('webfonts/BrandonTextWeb-Bold.ttf') format('truetype'),
+        url('webfonts/BrandonTextWeb-Bold.svg#BrandonTextWeb-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BrandonTextWeb-BlackItalic';
+    src: url('webfonts/BrandonTextWeb-BlackItalic.eot');
+    src: url('webfonts/BrandonTextWeb-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('webfonts/BrandonTextWeb-BlackItalic.woff2') format('woff2'),
+        url('webfonts/BrandonTextWeb-BlackItalic.woff') format('woff'),
+        url('webfonts/BrandonTextWeb-BlackItalic.ttf') format('truetype'),
+        url('webfonts/BrandonTextWeb-BlackItalic.svg#BrandonTextWeb-BlackItalic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'BrandonTextWeb-ThinItalic';
+    src: url('webfonts/BrandonTextWeb-ThinItalic.eot');
+    src: url('webfonts/BrandonTextWeb-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('webfonts/BrandonTextWeb-ThinItalic.woff2') format('woff2'),
+        url('webfonts/BrandonTextWeb-ThinItalic.woff') format('woff'),
+        url('webfonts/BrandonTextWeb-ThinItalic.ttf') format('truetype'),
+        url('webfonts/BrandonTextWeb-ThinItalic.svg#BrandonTextWeb-ThinItalic') format('svg');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'BrandonTextWeb';
+    src: url('webfonts/BrandonTextWeb-Thin.eot');
+    src: url('webfonts/BrandonTextWeb-Thin.eot?#iefix') format('embedded-opentype'),
+        url('webfonts/BrandonTextWeb-Thin.woff2') format('woff2'),
+        url('webfonts/BrandonTextWeb-Thin.woff') format('woff'),
+        url('webfonts/BrandonTextWeb-Thin.ttf') format('truetype'),
+        url('webfonts/BrandonTextWeb-Thin.svg#BrandonTextWeb-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BrandonTextWeb';
+    src: url('webfonts/BrandonTextWeb-Regular.eot');
+    src: url('webfonts/BrandonTextWeb-Regular.eot?#iefix') format('embedded-opentype'),
+        url('webfonts/BrandonTextWeb-Regular.woff2') format('woff2'),
+        url('webfonts/BrandonTextWeb-Regular.woff') format('woff'),
+        url('webfonts/BrandonTextWeb-Regular.ttf') format('truetype'),
+        url('webfonts/BrandonTextWeb-Regular.svg#BrandonTextWeb-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BrandonTextWeb-MediumItalic';
+    src: url('webfonts/BrandonTextWeb-MediumItalic.eot');
+    src: url('webfonts/BrandonTextWeb-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('webfonts/BrandonTextWeb-MediumItalic.woff2') format('woff2'),
+        url('webfonts/BrandonTextWeb-MediumItalic.woff') format('woff'),
+        url('webfonts/BrandonTextWeb-MediumItalic.ttf') format('truetype'),
+        url('webfonts/BrandonTextWeb-MediumItalic.svg#BrandonTextWeb-MediumItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'BrandonTextWeb-BoldItalic';
+    src: url('webfonts/BrandonTextWeb-BoldItalic.eot');
+    src: url('webfonts/BrandonTextWeb-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('webfonts/BrandonTextWeb-BoldItalic.woff2') format('woff2'),
+        url('webfonts/BrandonTextWeb-BoldItalic.woff') format('woff'),
+        url('webfonts/BrandonTextWeb-BoldItalic.ttf') format('truetype'),
+        url('webfonts/BrandonTextWeb-BoldItalic.svg#BrandonTextWeb-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'BrandonTextWeb';
+    src: url('webfonts/BrandonTextWeb-Italic.eot');
+    src: url('webfonts/BrandonTextWeb-Italic.eot?#iefix') format('embedded-opentype'),
+        url('webfonts/BrandonTextWeb-Italic.woff2') format('woff2'),
+        url('webfonts/BrandonTextWeb-Italic.woff') format('woff'),
+        url('webfonts/BrandonTextWeb-Italic.ttf') format('truetype'),
+        url('webfonts/BrandonTextWeb-Italic.svg#BrandonTextWeb-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'BrandonTextWeb';
+    src: url('webfonts/BrandonTextWeb-Light.eot');
+    src: url('webfonts/BrandonTextWeb-Light.eot?#iefix') format('embedded-opentype'),
+        url('webfonts/BrandonTextWeb-Light.woff2') format('woff2'),
+        url('webfonts/BrandonTextWeb-Light.woff') format('woff'),
+        url('webfonts/BrandonTextWeb-Light.ttf') format('truetype'),
+        url('webfonts/BrandonTextWeb-Light.svg#BrandonTextWeb-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BrandonTextWeb';
+    src: url('webfonts/BrandonTextWeb-Black.eot');
+    src: url('webfonts/BrandonTextWeb-Black.eot?#iefix') format('embedded-opentype'),
+        url('webfonts/BrandonTextWeb-Black.woff2') format('woff2'),
+        url('webfonts/BrandonTextWeb-Black.woff') format('woff'),
+        url('webfonts/BrandonTextWeb-Black.ttf') format('truetype'),
+        url('webfonts/BrandonTextWeb-Black.svg#BrandonTextWeb-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
