@@ -1,0 +1,11 @@
+body {
+    padding: 0px;
+    margin: 0px;
+
+}
+header {
+    height: 350px;    
+    background-image: url("../images/background_heyyou_6400x1350x24.png");
+    background-repeat: no-repeat;  
+    background-size: contain;  
+}
