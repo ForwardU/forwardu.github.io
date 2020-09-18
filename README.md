@@ -1,2 +1,3 @@
 # forwardu.github.io
-ForwardU GitHub Page
+
+GitHub page for [https://forwardu.github.io](forwardu.github.io)
